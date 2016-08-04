@@ -1,2 +1,3 @@
 http://www.swiftgl.org
 http://thebookofshaders.com
+https://github.com/FlexMonkey/Filterpedia
